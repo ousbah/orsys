@@ -1,0 +1,6 @@
+#ajout des utilisateurs
+useradd
+#modification des utilisateurs
+usermod
+#suppression des utilisateurs
+userdel
