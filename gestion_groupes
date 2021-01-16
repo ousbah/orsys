@@ -1,0 +1,6 @@
+#ajout de groupes
+groupadd
+#modification de groupes
+groupmod
+#suppression de groupes
+groupdel
