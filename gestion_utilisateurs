@@ -4,3 +4,4 @@ useradd
 usermod
 #suppression des utilisateurs
 userdel
+test
