@@ -3,4 +3,4 @@ useradd
 #modification des utilisateurs
 usermod
 #suppression des utilisateurs
-userdel
+userdel [-r,none]
