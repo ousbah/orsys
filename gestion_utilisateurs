@@ -4,3 +4,6 @@ useradd
 usermod
 #suppression des utilisateurs
 userdel [-r,none]
+# bonjour, git est génial
+userdel -f newuser1
+usderdel -r newuser2
