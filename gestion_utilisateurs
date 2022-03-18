@@ -3,6 +3,7 @@ useradd
 #modification des utilisateurs
 usermod
 #suppression des utilisateurs
+<<<<<<< HEAD
 userdel [-r,none]
 # bonjour, git est génial
 userdel -f newuser1
